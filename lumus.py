@@ -10,14 +10,7 @@ def toBinary(a):
   for i in l:
     m.append(int(bin(i)[2:]))
   return m
-#traco
-#                pyautogui.press('capslock')
-#                time.sleep(0.48)
-#                pyautogui.press('capslock')
-#pequeno
-#                pyautogui.press('capslock')
-#                time.sleep(0.18)
-#                pyautogui.press('capslock')
+
 print("Reading Secrect.txt")
 with open("secret.txt", "r") as arquivo:
     for linha in arquivo:
