@@ -11,3 +11,9 @@ With that he can write the binary in a text file for example seeing the recordin
 And use some site that converts binary to text
 Representing the space was the most difficult task so I decided that the malware should wait 3 seconds before continuing a sequence for me to know it was a space
 The purpose of me showing this is to show how malicious attackers can extract data even if the computers are not connected to the internet, even though this type of extraction is time consuming it is something that can be used.
+
+
+
+
+https://github.com/whateli/Lumus/assets/125846649/8be0c5e4-91af-4e45-bbef-1ae26f7c787c
+
